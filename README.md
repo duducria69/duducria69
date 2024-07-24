@@ -1,16 +1,14 @@
-## Hi there 👋
+- **Bem Vindo Ao Meu Perfil** 😴
 
-<!--
-**duducria69/duducria69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Meu** Nome **É** Carlos **Eduardo**
 
-Here are some ideas to get you started:
+- Atualmente **Estou** Estudando **No** [alura](https://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Atualmente** Estou **Trabalhando** No **Curso** Do **Alura**
+
+
+
+
+
+
+![](https://media1.tenor.com/m/02Y-brCpgxQAAAAd/monkey-monkey-omg.gif)
